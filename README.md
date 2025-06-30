@@ -1,6 +1,6 @@
 # CS 300 Portfolio
 1. What was the problem you were solving in the projects for this course?
-   I was trying to build a program for ABCU that helped their advisors manage their course info. 
+   I built a program for ABCU that helped their advisors manage their course info. 
 
 2. How did you approach the problem? Consider why data structures are important to understand.
    In the beginning of this course, I was not confident in data structures at all. However, the milestones were actually really helpful in figuring out the vectors, hash tables, and BSTs. By understanding the pros and cons of each of the structures,    it helped me to make a better recommendation for the final project. In the end, I decided to recommend a binary search tree because of how to sorts things automatically and makes the printing much easeir. 
