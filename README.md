@@ -9,7 +9,7 @@
    There were many moments when I felt very stuck trying to get Apporto to cooperate. It helped to break things into smaller, more managable steps. Also, the pseudocode was stressful in the moment, but did help shape my code into somethiing that        would build and run properly. Also, to overcome my lack of experience in C++, I did have to spend extra time on YouTube trying to figure out how to properly code this assignment. 
 
 4. How has your work on this project expanded your approach to designing software and developing programs?
-   This project really helped me see the importance of planning before going straight into coding. I have worked with pseudocodes before, but this was the first time that they made this course feel much less overwhelming. 
+   This project really helped me see the importance of planning before going straight into coding. I have worked with pseudocodes before, but this was the first time that they made this course feel much less overwhelming. The Big-O analysis made me     think more about how to approach algorithmic design. I realize that I don't actually think in a recursive way, which is something I want to work on since it limits how I approach certain issues. 
 
 5. How has your work on this project evolved the way you write programs that are maintainable, readable, and adaptable?
-   I started adding more in line comments to my code. I am new at programming; coding is not somethign I have been doing for many years.
+   I think all the elements come from practice. After writing many streams throughout this course, I started to create muscle memory and recognize patterns in what I kept reusing.
